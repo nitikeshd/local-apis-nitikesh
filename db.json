@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "module": "landing_page",
+  "header": "OPPO LEarning Pro",
+  "slider": [
+    {
+      "type": "image",
+      "url": "https://static.toiimg.com/photo/73959144.cms"
+    },
+    {
+      "type": "image",
+      "url": "https://static.toiimg.com/photo/73959144.cms"
+    },
+    {
+      "type": "image",
+      "url": "https://static.toiimg.com/photo/73959144.cms"
+    }
+  ],
+  "grids": [
+    {
+      "title": "sharewall",
+      "data": [
+        {
+          "title": "TEST",
+          "desc": "TEST",
+          "image": "https://static.toiimg.com/photo/73959144.cms"
+        },
+        {
+          "title": "TEST",
+          "desc": "TEST",
+          "image": "https://static.toiimg.com/photo/73959144.cms"
+        },
+        {
+          "title": "TEST",
+          "desc": "TEST",
+          "image": "https://static.toiimg.com/photo/73959144.cms"
+        }
+      ]
+    },
+    {
+      "title": "Resume Learning",
+      "data": [
+        {
+          "title": "TEST",
+          "desc": "TEST",
+          "image": "https://static.toiimg.com/photo/73959144.cms"
+        },
+        {
+          "title": "TEST",
+          "desc": "TEST",
+          "image": "https://static.toiimg.com/photo/73959144.cms"
+        },
+        {
+          "title": "TEST",
+          "desc": "TEST",
+          "image": "https://static.toiimg.com/photo/73959144.cms"
+        }
+      ]
+    }
+  ]
+}
